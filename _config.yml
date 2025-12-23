@@ -1,3 +1,17 @@
 title: Portafolio de proyectos
 author: Verónica Arango Toro
 logo: content/local/imgs/Simple_stick_Figure.svg.png
+
+repository:
+   url: https://github.com/veratoro/portfolio
+   branch: main
+
+launch_buttons:
+  binderhub_url: ""
+  colab_url: https://colab.research.google.com
+
+html:
+  google_analytics_id: "UA-43235448-4"
+
+execute:
+  execute_notebooks         : off
